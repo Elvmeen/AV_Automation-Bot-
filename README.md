@@ -1,2 +1,3 @@
-# AV_Automation-Bot-
-AV Automation Bot (By Elameen) 
+# ttBot
+X (twitter) Bot that runs daily using github actions!
+
